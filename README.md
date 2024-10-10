@@ -2,6 +2,12 @@
 
 Este repositorio contiene la auditoría de seguridad realizada a Botium Toys (empresa ficticia), donde se examinan los controles de seguridad, el cumplimiento normativo y se emite un memorándum para las partes interesadas.
 
+## Descripción General
+Este repositorio contiene los resultados de la auditoría de seguridad realizada en Botium Toys. El objetivo principal de la auditoría es evaluar los controles de seguridad existentes, el cumplimiento normativo y comunicar los hallazgos a las partes interesadas.
+
+## Objetivo
+El objetivo de este repositorio es facilitar la transparencia en la gestión de la seguridad de la información en Botium Toys, proporcionando un recurso accesible para todos los interesados y promoviendo la mejora continua en la protección de datos y la seguridad organizacional.
+
 ## Estructura del repositorio
 
 - `/auditoria`: Contiene la auditoría desglosada en sus tres secciones principales:
